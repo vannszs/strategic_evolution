@@ -1,11 +1,14 @@
-💫 About The code:
+# CodeGenius: 🐓🧠 A Smart Chicken Feed Calculator 🌟
 
-This code is simply for Calculating chicken feed with a strategic evolution algorithm to find the best genetic fitness
+## **Welcome to CodeGenius!**
 
-actually I made this code because my final semester class friend asked me to make a program his final project hehe, but yeah i made it
+This unique program harnesses a strategic evolution algorithm to calculate the optimal chicken feed formula. Crafted initially for a friend's final semester project, it evolved into a smart solution for genetic fitness in poultry nutrition.
 
-this code is using indonesian languange for asking input request, just wanna make it sure :D
+### **Why CodeGenius?**
 
-Want to use my code and improve it to help your research? u can dm me on instagram @bevan.satriaa , i'll give u no enc code, but dont forget to put me on credit :D
+- 🚀 Simple yet powerful: Optimize your chicken feed effortlessly.
+- 🌐 Multilingual: Indonesian language prompts for user convenience.
+- 💡 Potential Research Aid: Interested in enhancing it? Collaborate and innovate!
+- 📚 Want to Contribute? Reach out via Instagram @bevan.satriaa for unencrypted code and remember to credit! 
 
-
+Discover the smartest way to nourish your feathered friends with CodeGenius! 🐔✨
